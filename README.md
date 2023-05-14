@@ -7,4 +7,4 @@ Link: https://fabiangord.github.io/HOJAVN/
 
 # Servidor de desarrollo
 
-Para ejecutar en el local debes clonar el repositorio y abrir el index.html
+Para ejecutar en el local debes clonar el repositorio y abrir el index.html.
